@@ -1,3 +1,4 @@
+#Today we learned how input and variables work, and how to include them with the print function.
 print("We gonna try some inputs!")
 input("Hello?")
 print("Cool I can type in the console!")
