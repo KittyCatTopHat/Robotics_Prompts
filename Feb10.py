@@ -1,3 +1,4 @@
+#Starting off strong, but I talked way too much on that. I learned how to show some basic messages.
 print("Hi Me")
 print("The totorial is telling me what to put.")
 print("I'm not doing that though. :>")
